@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Developer.Repository", "Komodo_Developer\Developer.Repository.csproj", "{030823A5-2CE9-489C-AC07-267A729D6B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevTeam.Repository", "Komodo_DevTeam\DevTeam.Repository.csproj", "{3CB5ECFB-DB28-49B2-9E99-5502E7E72A88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Komodo_Console.", "Komodo_Console\Komodo_Console..csproj", "{0DA565F9-2365-4FF6-8A1E-D2801F822730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{666909CA-A543-47E7-8E04-CE6E862E5730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666909CA-A543-47E7-8E04-CE6E862E5730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666909CA-A543-47E7-8E04-CE6E862E5730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666909CA-A543-47E7-8E04-CE6E862E5730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{030823A5-2CE9-489C-AC07-267A729D6B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{030823A5-2CE9-489C-AC07-267A729D6B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{030823A5-2CE9-489C-AC07-267A729D6B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{030823A5-2CE9-489C-AC07-267A729D6B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB5ECFB-DB28-49B2-9E99-5502E7E72A88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB5ECFB-DB28-49B2-9E99-5502E7E72A88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB5ECFB-DB28-49B2-9E99-5502E7E72A88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB5ECFB-DB28-49B2-9E99-5502E7E72A88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA565F9-2365-4FF6-8A1E-D2801F822730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA565F9-2365-4FF6-8A1E-D2801F822730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA565F9-2365-4FF6-8A1E-D2801F822730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA565F9-2365-4FF6-8A1E-D2801F822730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
